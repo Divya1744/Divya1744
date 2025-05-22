@@ -27,10 +27,9 @@ I'm passionate about solving real-world problems with tech and love blending log
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🔗 Let’s Connect
 
@@ -45,8 +44,16 @@ I'm passionate about solving real-world problems with tech and love blending log
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20%7C%20102-brightgreen)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/23bit007?theme=light&font=robot)
+![LeetCode Stats](https://leetcard.jacoblin.cool/23bit007?theme=dark&font=robot)
 
+
+---
+
+## ✅ GitHub Stats
+
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divya1744&show_icons=true&theme=tokyonight)
+![Divya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Divya1744&theme=tokyonight)
+![Divya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divya1744&layout=compact&theme=tokyonight)
 
 
 ---
