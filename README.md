@@ -42,7 +42,7 @@ I'm passionate about solving real-world problems with tech and love blending log
 
 ## 👩‍💻 LeetCode Stats
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20%7C%20107-brightgreen)  
+![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20%7C%20108-brightgreen)  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/23bit007?theme=dark&font=robot)
 
