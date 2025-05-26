@@ -43,7 +43,7 @@ I'm passionate about solving real-world problems with tech and love blending log
 ## 👩‍💻 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/Divya1744">
+  <a href="https://leetcode.com/23bit007">
     <img src="https://github.com/Divya1744/Divya1744/blob/main/50days.gif" alt="50 Days of Code Badge" width="200"/>
   </a>
 </p>
