@@ -42,6 +42,14 @@ I'm passionate about solving real-world problems with tech and love blending log
 
 ## 👩‍💻 LeetCode Stats
 
+<p align="center">
+  <a href="https://leetcode.com/Divya1744">
+    <img src="https://github.com/Divya1744/Divya1744/blob/main/50days.gif" alt="50 Days of Code Badge" width="200"/>
+  </a>
+</p>
+
+
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20%7C%20108-brightgreen)  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/23bit007?theme=dark&font=robot)
