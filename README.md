@@ -2,7 +2,6 @@
 
 🎓 B.Tech Information Technology Student  
 👩‍💻 Aspiring Developer | Data Enthusiast | Blogger  
-🌱 Currently learning: Spring Boot, MySQL, and JavaScript  
 ✍️ Writing on Medium about life & code: [@divyasd174](https://medium.com/@divyasd174)
 
 ---
@@ -45,6 +44,9 @@ I'm passionate about solving real-world problems with tech and love blending log
 <p align="center">
   <a href="https://leetcode.com/23bit007">
     <img src="https://github.com/Divya1744/Divya1744/blob/main/50days.gif" alt="50 Days of Code Badge" width="200"/>
+  </a>
+   <a href="https://leetcode.com/23bit007">
+    <img src="https://github.com/Divya1744/Divya1744/blob/main/25100.gif" alt="50 Days of Code Badge" width="200"/>
   </a>
 </p>
 
